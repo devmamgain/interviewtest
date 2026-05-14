@@ -46,10 +46,10 @@ project-root/
 │   ├── app.py
 │   ├── sample.pdf
 │
-├── server/
+├── interviewbackend/
 │   ├── index.js
 │
-├── client/
+├── interview/
 │   ├── src/
 │   │   ├── App.js
 │
